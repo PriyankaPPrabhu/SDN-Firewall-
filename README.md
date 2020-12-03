@@ -21,4 +21,4 @@ Efficient Application:- In Efficient Firewall it stores the flow table entries o
 Inefficient Application:- In Inefficient Firewall, there is no comprehensive storage of flow table entries on the switch. Instead, the switch is simply made to forward everything to the controller. 
 
 # Architecture
-<img width="1822" alt="Project Image" src="https://user-images.githubusercontent.com/57679558/101070033-cef58580-3568-11eb-9bbe-572540263bc9.png">
+
