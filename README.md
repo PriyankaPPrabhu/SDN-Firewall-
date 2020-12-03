@@ -22,3 +22,8 @@ Inefficient Application:- In Inefficient Firewall, there is no comprehensive sto
 
 # Architecture
 <img width="915" alt="Project Image" src="https://user-images.githubusercontent.com/57679558/101070620-93a78680-3569-11eb-928b-89e922914301.png">
+
+# Prerequisites
+You have to first install mininet http://mininet.org/ and RYU controller package
+
+# 
