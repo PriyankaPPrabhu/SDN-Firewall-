@@ -28,7 +28,10 @@ You have to first install mininet http://mininet.org/download/ and RYU controlle
 
 # Steps for installation
 1) Get this repository.
-2) Create the mininet topology by runing the python script 
+2) Create the mininet topology by runing the python script
+```
   python mininetTopology.py
+  
+```
 3) Run the RYU controller on other terminal
 
