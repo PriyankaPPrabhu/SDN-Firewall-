@@ -32,5 +32,6 @@ You have to first install mininet http://mininet.org/download/ and RYU controlle
 ```
   python mininetTopology.py  
 ```
-3) Run the RYU controller on other terminal
+3) Make changes to the firewall_stateful.txt and firewall_stateless.txt to add firewall rules.
+4) Run the RYU controller on other terminal using ryu-manager.
 
