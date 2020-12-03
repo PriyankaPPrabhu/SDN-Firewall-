@@ -19,3 +19,5 @@ Stateless:-Stateless Firewall, simply tests each packet with Firewall rules and 
 Efficient Application:- In Efficient Firewall it stores the flow table entries on the switch, this application uses flow tables so that packets from that flow will not be forwarded to the controller next time. Based on Flow table entries, the switch will make decisions to forward or reject the packet to the appropriate port. 
 
 Inefficient Application:- In Inefficient Firewall, there is no comprehensive storage of flow table entries on the switch. Instead, the switch is simply made to forward everything to the controller. 
+
+# Architecture
